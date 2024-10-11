@@ -1,0 +1,15 @@
+{
+  "name": "javascript-guessing-number",
+  "version": "1.0.0",
+  "description": "자바스크립트로 구현하는 숫자 맞추기 게임",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "brgndyy",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
